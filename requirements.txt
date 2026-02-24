@@ -3,4 +3,3 @@
  Pillow
  joblib
  streamlit_drawable_canvas
- sklearn
