@@ -2,7 +2,6 @@ import streamlit as st
 import numpy as np
 from PIL import Image, ImageOps
 import joblib
-
 from streamlit_drawable_canvas import st_canvas
 
 st.set_page_config(page_title="MNIST Draw", page_icon="🔢", layout="centered")
